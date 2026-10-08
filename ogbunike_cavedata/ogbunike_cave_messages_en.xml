@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[Ogbunika Cave]]></data>
+  <data name="en_project_author_name"><![CDATA[Developed by  I-360 LIMITED '+234 803 618 2894']]></data>
+  <data name="en_project_author_url"><![CDATA[http://www.i360limited.com/]]></data>
+
+
+
+  <data name="en_pano43_title"><![CDATA[Main Cave]]></data>
+  <data name="en_spotpoint83_tooltip"><![CDATA[Cave Front]]></data>
+  <data name="en_spotpoint84_tooltip"><![CDATA[Cave Landing]]></data>
+  <data name="en_spotpoint85_tooltip"><![CDATA[Into Tunnel 1 Chamber 1]]></data>
+  <data name="en_spotpoint108_tooltip"><![CDATA[Tunnel 5]]></data>
+
+
+  <data name="en_pano49_title"><![CDATA[Tunnel 1 Chamber 1]]></data>
+  <data name="en_spotpoint86_tooltip"><![CDATA[Back To Cave]]></data>
+  <data name="en_spotpoint87_tooltip"><![CDATA[Tunnel 1 Chamber 2]]></data>
+
+
+  <data name="en_pano47_title"><![CDATA[Tunnel 1 Chamber 2]]></data>
+  <data name="en_spotpoint88_tooltip"><![CDATA[Tunnel 1 Chamber 1]]></data>
+  <data name="en_spotpoint89_tooltip"><![CDATA[Tunnel 1 Chamber 3]]></data>
+
+
+  <data name="en_pano51_title"><![CDATA[Tunnel 1 Chamber 3]]></data>
+  <data name="en_spotpoint90_tooltip"><![CDATA[Tunnel 1 Outlet]]></data>
+  <data name="en_spotpoint91_tooltip"><![CDATA[Tunnel 1 Chamber 2]]></data>
+
+
+  <data name="en_pano53_title"><![CDATA[Tunnel 1 Outlet]]></data>
+  <data name="en_spotpoint92_tooltip"><![CDATA[Tunnel 1 Chamber 3]]></data>
+  <data name="en_spotpoint93_tooltip"><![CDATA[Cave Jungle]]></data>
+
+
+  <data name="en_pano57_title"><![CDATA[Reception Area]]></data>
+  <data name="en_spotpoint96_tooltip"><![CDATA[Steps To Cave]]></data>
+
+
+  <data name="en_pano55_title"><![CDATA[Cave Jungle ]]></data>
+  <data name="en_spotpoint94_tooltip"><![CDATA[Tunnel 1 Outlet]]></data>
+  <data name="en_spotpoint95_tooltip"><![CDATA[Cave Front]]></data>
+
+
+  <data name="en_pano59_title"><![CDATA[Steps To Cave]]></data>
+  <data name="en_spotpoint97_tooltip"><![CDATA[Reception Area]]></data>
+  <data name="en_spotpoint98_tooltip"><![CDATA[Cave Landing]]></data>
+
+
+  <data name="en_pano61_title"><![CDATA[Cave Landing]]></data>
+  <data name="en_spotpoint99_tooltip"><![CDATA[Steps]]></data>
+  <data name="en_spotpoint100_tooltip"><![CDATA[Cave Front]]></data>
+  <data name="en_spotpoint101_tooltip"><![CDATA[Mbida Stream]]></data>
+
+
+  <data name="en_pano45_title"><![CDATA[Cave Front]]></data>
+  <data name="en_spotpoint109_tooltip"><![CDATA[Cave Landing]]></data>
+  <data name="en_spotpoint110_tooltip"><![CDATA[Main Cave]]></data>
+
+
+  <data name="en_pano63_title"><![CDATA[Mbida Stream Entrance]]></data>
+  <data name="en_spotpoint102_tooltip"><![CDATA[Kisa Falls]]></data>
+  <data name="en_spotpoint103_tooltip"><![CDATA[Cave Landing]]></data>
+
+
+  <data name="en_pano65_title"><![CDATA[Kisa Falls]]></data>
+  <data name="en_spotpoint105_tooltip"><![CDATA[Mbida cold and worn stream]]></data>
+  <data name="en_spotpoint106_tooltip"><![CDATA[Forest Canopy]]></data>
+
+
+  <data name="en_pano67_title"><![CDATA[Ogba and kisa confluence ]]></data>
+  <data name="en_spotpoint104_tooltip"><![CDATA[Kisa Falls]]></data>
+
+
+
+
+
+
+  <data name="en_descriptiondescription_title"><![CDATA[]]></data>
+  <data name="en_descriptiondisplay_close_text"><![CDATA[Close]]></data>
+  <data name="en_controlBar_classiczoomInTip"><![CDATA[Zoom in]]></data>
+  <data name="en_controlBar_classiczoomOutTip"><![CDATA[Zoom out]]></data>
+  <data name="en_controlBar_classicopenFsTip"><![CDATA[Enter fullscreen]]></data>
+  <data name="en_controlBar_classiccloseFsTip"><![CDATA[Exit fullscreen]]></data>
+  <data name="en_controlBar_classicautorotateOnTip"><![CDATA[Start autorotation]]></data>
+  <data name="en_controlBar_classicautorotateOffTip"><![CDATA[Stop autorotation]]></data>
+  <data name="en_controlBar_classicautotourOnTip"><![CDATA[Start automatic tour]]></data>
+  <data name="en_controlBar_classicautotourOffTip"><![CDATA[Stop automatic tour]]></data>
+  <data name="en_controlBar_classicsoundsOnTip"><![CDATA[Start sounds]]></data>
+  <data name="en_controlBar_classicsoundsOffTip"><![CDATA[Stop sounds]]></data>
+  <data name="en_controlBar_classicshowSpotsTip"><![CDATA[Show hotspots]]></data>
+  <data name="en_controlBar_classichideSpotsTip"><![CDATA[Hide hotspots]]></data>
+  <data name="en_controlBar_classicshowThumbnailsTip"><![CDATA[Show thumbnails]]></data>
+  <data name="en_controlBar_classichideThumbnailsTip"><![CDATA[Hide thumbnails]]></data>
+  <data name="en_controlBar_classicdisplayHelpTip"><![CDATA[Show help screen]]></data>
+  <data name="en_controlBar_classichideHelpTip"><![CDATA[Hide help screen]]></data>
+  <data name="en_controlBar_classicdisplayInfoTip"><![CDATA[Show information]]></data>
+  <data name="en_controlBar_classichideInfoTip"><![CDATA[Hide information]]></data>
+  <data name="en_controlBar_classicenterVRTip"><![CDATA[VR mode]]></data>
+  <data name="en_controlBar_classicenterVRNotTip"><![CDATA[VR mode is unavailable]]></data>
+  <data name="en_controlBar_classicdisplayControlsTip"><![CDATA[Show controls]]></data>
+  <data name="en_controlBar_classichideControlsTip"><![CDATA[Hide controls]]></data>
+  <data name="en_logowebsiteurl"><![CDATA[http://www.i360limited.com/]]></data>
+  <data name="en_prevnexttheme1prevSceneTip"><![CDATA[Previous Scene]]></data>
+  <data name="en_prevnexttheme1nextSceneTip"><![CDATA[Next Scene]]></data>
+  <data name="en_buttontooltip"><![CDATA[Locate on Map]]></data>
+  <data name="en_buttononclick117134websiteViewer|websiteViewer|toggle_websitewebsite_url"><![CDATA[https://goo.gl/maps/JhphJskh3zSUvSxKA]]></data>
+  <data name="en_buttononclick117134websiteViewer|websiteViewer|toggle_websitewebsite_title"><![CDATA[Locate on Map]]></data>
+  <data name="en_button1tooltip"><![CDATA[Information]]></data>
+  <data name="en_button2tooltip"><![CDATA[Social Share]]></data>
+  <data name="en_logo2websiteurl"><![CDATA[http://www.ogbunike.ng/about-ogbunike-cave/]]></data>
+  <data name="en_logo2tooltipText"><![CDATA[Open website]]></data>
+  <data name="en_floorPlanmenu_label"><![CDATA[Select a floor plan]]></data>
+  <data name="en_floorPlandisplay_close_text"><![CDATA[Close]]></data>
+  <data name="en_socialShareclose_text"><![CDATA[Close]]></data>
+  <data name="en_socialShareembed_text"><![CDATA[Copy paste this code in your page to embed this virtual tour]]></data>
+  <data name="en_socialShareembed_width_label"><![CDATA[Width]]></data>
+  <data name="en_socialShareembed_height_label"><![CDATA[Height]]></data>
+  <data name="en_contextmenuopenwebsitelabel1"><![CDATA[NIGERIAN TOURISM DEVELOPMENT CORPORATION (NTDC) ]]></data>
+  <data name="en_contextmenuwebsiteurl1"><![CDATA[http://tournigeria.gov.ng/]]></data>
+  <data name="en_contextmenuopenFsLabel"><![CDATA[Enter Fullscreen]]></data>
+  <data name="en_contextmenucloseFsLabel"><![CDATA[Exit Fullscreen]]></data>
+  <data name="en_contextmenuopenVrLabel"><![CDATA[Enter VR mode]]></data>
+  <data name="en_contextmenunormallabel"><![CDATA[Normal View]]></data>
+  <data name="en_contextmenufisheyelabel"><![CDATA[Fisheye View]]></data>
+  <data name="en_contextmenuarchitecturallabel"><![CDATA[Architectural View]]></data>
+  <data name="en_contextmenustereographiclabel"><![CDATA[Stereographic View]]></data>
+  <data name="en_contextmenupanninilabel"><![CDATA[Pannini View]]></data>
+  <data name="en_contextmenulittleplanetlabel"><![CDATA[Little Planet View]]></data>
+  <data name="en_contextmenufisheyeballlabel"><![CDATA[Fisheye Ball View]]></data>
+  <data name="en_button3tooltip"><![CDATA[]]></data>
+  <data name="en_webVideoViewerfullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_webVideoViewerclose_text"><![CDATA[Close]]></data>
+  <data name="en_galleryfullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_galleryclose_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title0"><![CDATA[Monument]]></data>
+  <data name="en_gallerypicture_caption0"><![CDATA[]]></data>
+  <data name="en_gallery2play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery2navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery2navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery2fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery2close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[Tunnel 5]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[A]]></data>
+  <data name="en_gallery2picture_title1"><![CDATA[Tunnel 5]]></data>
+  <data name="en_gallery2picture_caption1"><![CDATA[B]]></data>
+  <data name="en_gallery2picture_title2"><![CDATA[Tunnel 5]]></data>
+  <data name="en_gallery2picture_caption2"><![CDATA[C]]></data>
+  <data name="en_gallery2picture_title3"><![CDATA[Tunnel 5]]></data>
+  <data name="en_gallery2picture_caption3"><![CDATA[ D]]></data>
+  <data name="en_gallery2picture_title4"><![CDATA[Tunnel 5]]></data>
+  <data name="en_gallery2picture_caption4"><![CDATA[E]]></data>
+  <data name="en_gallery2picture_title5"><![CDATA[Ogbunke Chiefs]]></data>
+  <data name="en_gallery2picture_caption5"><![CDATA[Chiefs]]></data>
+  <data name="en_gallery2picture_title6"><![CDATA[Team Ogbunike]]></data>
+  <data name="en_gallery2picture_caption6"><![CDATA[Tour Guides]]></data>
+  <data name="en_gallery1fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery1close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_gallery3fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery3close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_gallery4fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery4close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_gallery5fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery5close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_gallery6fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery6close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_gallery7fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery7close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_gallery8fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery8close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_gallery9fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery9close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_gallery10fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery10close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_gallery11fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery11close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_gallery12fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery12close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_websiteViewerfullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_websiteViewerclose_text"><![CDATA[Close]]></data>
+
+
+  <data name="en_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="en_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="en_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="en_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="en_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="en_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="en_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="en_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="en_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="en_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="en_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="en_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="en_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="en_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="en_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="en_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="en_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="en_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="en_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="en_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="en_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="en_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="en_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="en_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="en_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="en_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+  <data name="en_pano43_description"><![CDATA[The main cave consists of a massive structure with a big open chamber of about 5m high, 10m wide and 30m long at the entrance. There are ten tunnels at the main chamber leading to different directions. Within the tunnels are big chambers and other tunnels of varying lengths, some of which are inter connected. The caves are occupied by a large colony of bats of various sizes. There are streams and body of water at various places. A stream flows out from one of the tunnels into a rapidly flowing river (River kisa). At the meeting point of the river and the stream one can feel the warm water from the caves and the cold water from the river.]]></data>
+
+
+
+  <data name="en_pano49_description"><![CDATA[<div>The caves are occupied by a large colony of bats of various sizes. There are streams and bodies of water at various places. A stream flows out from one of the tunnels into a rapid flowing river (River kisa). At the meeting point of the river and the stream one can feel the warm water from the caves and the cold water from the river.</div><div><br></div><div>Sandstone caves are very rare, and typically very small, but Ogbunike cave is extraordinarily big for its type. Physio-chemical and biological weathering and of course erosion formed the cave.</div>]]></data>
+
+
+
+  <data name="en_pano47_description"><![CDATA[<div>“Ogbunike Cave” is unique in the sense that it contains all the known features associated with standard caves. The Cave has inbuilt indelible ink on the walls of the cave where visitors on excursion from all over the world wrote their names. During the raining season, there exists dry season inside the cave, while during the dry season, it rains in the cave.&nbsp;</div><div><br></div><div>Sandstone caves are very rare, and typically very small, but Ogbunike cave is extraordinarily big for its type. Physio-chemical and biological weathering and of course erosion formed the cave.</div><div><br></div><div>The cave consists of a network of chambers, crawls and tunnels on two levels. The lower level is 100m long and drains an underground river. The upper level is twice as long and dry.</div>]]></data>
+
+
+
+  <data name="en_pano51_description"><![CDATA[Sandstone caves are very rare, and typically very small, but Ogbunike cave is extraordinarily big for its type. There are indications that the cave was formed by the combined actions of physio-chemical and biological weathering as well as the corrosive forces of erosion.]]></data>
+
+
+
+  <data name="en_pano53_description"><![CDATA[This the outlet for Tunnel 1, stream runs out of most of the outlet Tunnels.]]></data>
+
+
+
+  <data name="en_pano57_description"><![CDATA[At this point you will meet &nbsp;tour guide, that will guide and tell you all the stories/legend about the cave, and all the instruction that will make your &nbsp;visit worthwhile.]]></data>
+
+
+
+  <data name="en_pano55_description"><![CDATA[The biodiversity of the site has remained almost in tact. The integrity of the site can be attested to by the presence of the primary forests around the caves. The kisa River flows by the side of the caves into which the water that drains from the caves empties itself. At that point, the difference in temperature is felt between the river and the water from the rock.]]></data>
+
+
+
+  <data name="en_pano59_description"><![CDATA[The biodiversity of the site has remained almost in tact. The integrity of the site can be attested to by the presence of the primary forests around the caves. The kisa River flows by the side of the caves into which the water that drains from the caves empties itself. At that point, the difference in temperature is felt between the river and the water from the rock.]]></data>
+
+
+
+  <data name="en_pano61_description"><![CDATA[<div>At the end of the walkway is an open space used as a reception point where visitors are by tradition required to remove their shoes.</div><div><br></div><div>According to religious traditions, visit to the cave is only allowed with bare feet. Actually there are numerous rules for visitors, and so a sign at the entrance reads "Ifite Youth Movement warning; no entry except by permission. Remove your shoes before entering into the cave. Ladies under period banned. Receive receipt after payment. Herbalist or spiritual ceremony in the cave is banned. Deforestation of cave will be prosecuted. Defaulters will be prosecuted." Unfortunately painting graffiti on the wall is not forbidden, so the walls are full of them.</div>]]></data>
+
+
+
+  <data name="en_pano45_description"><![CDATA[According to oral tradition of the Igbo, there was a god called Ogba who lived inside the cave in the middle of a large rock despite the opaque nature of the rock. He was an all-seeing spirit who could detect crimes, especially, theft. When someone was accused of some sort of crime, he could prove he was innocent by entering the cave. The guilty ones never returned alive.]]></data>
+
+
+
+  <data name="en_pano63_description"><![CDATA[This is the part to the KISA FALLS, it is made up of tropical rain forest with trees as high as 80-90m, these tress greats a thick canopy that the rays of the sun hardly penetrates.]]></data>
+
+
+
+  <data name="en_pano65_description"><![CDATA[<div>There are streams and body of water at various places. A stream flows out from one of the tunnels into a rapidly flowing river (River kisa). At the meeting point of the river and the stream one can feel the warm water from the caves and the cold water from the river.</div><div><br></div><div>Beside the portion of the river is a table land of about 5 X 5 square meters used as a relaxation spot by visitors to the caves. The immediate environment of the caves which is about 200 meters radius is a thick tropical rainforest type of vegetation. Among the fauna of the site are deer, antelope, grass cutter, porcupine, rabbit, alligator, snakes and frogs. Others are fish, crabs and birds.</div>]]></data>
+
+
+
+  <data name="en_pano67_description"><![CDATA[<div>The Warm Spring flows directly from the “OGBUNIKE CAVE”. Its temperature is about 55oc. It meets the KISA “COLD STREAM” at a Confluence where it in turn flows into the water fall Called “MBIDA”. Standing at the confluence of the two streams, one will feel the temperature difference between the streams.&nbsp;</div><div><br></div><div>It is said that once one bathes at these stream, one will not sweet on his way out of the cave, it is also believed that a bath at this stream is medicinal.</div><div><br></div><div>The Floor &nbsp;of the OGBA Stream is made of fine white sand. This makes it possible for one to see how clean the CAVE STREAM is, while the Floor of the KISA STREAM is naturally made up of hard dark rock. This makes the water Look dark but in the real sense, the water is clean and pure.</div>]]></data>
+
+
+</krpano>
